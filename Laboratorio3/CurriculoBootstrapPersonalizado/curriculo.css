@@ -1,0 +1,51 @@
+body {
+    background-color: #cfcfcf08;
+    font-family: monospace !important;
+}
+header .card{
+    background-color: #9bafae;
+}
+.img-circle {
+    border-radius: 50% !important;
+    background-color: rgba(255, 255, 255, 0.192);
+    padding: 5px;
+    height: 200px;
+}
+
+.icon-options a{
+    background-color: #9bafae !important;
+    color: #000009;
+    font-weight: 600;
+    margin: 1px;
+}
+
+.icon-options a:hover{
+    background: #c293c3 !important;
+    color: #fff;
+}
+.icon-options .active{
+    color: #000009 !important;
+}
+
+
+article {
+    margin-bottom: 80px;
+}
+
+.up-page{
+    float: right;
+    color: #9bafae;
+}
+.up-page:hover{
+    float: right;
+    color: #c293c3;
+}
+
+.card-title i {
+    color: #c293c3;
+}
+
+.subheading {
+    color: #c293c3;
+    font-weight: 600;
+}
